@@ -1,0 +1,71 @@
+  Proyecto02.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto02, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC.STLCLR, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class Proyecto02.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    cliext.vector<int> fila0 IsByValue : Public, InitOnly
+    cliext.vector<int> fila1 IsByValue : Public, InitOnly
+    cliext.vector<int> fila2 IsByValue : Public, InitOnly
+    cliext.vector<int> fila3 IsByValue : Public, InitOnly
+    cliext.vector<int> fila4 IsByValue : Public, InitOnly
+    Int32 i : Public
+    Int32 j : Public
+    Int32 k : Public
+    Int32 turno : Public
+    Int32 linea : Public
+    Int32 enc : Public
+    Int32 ganador : Public
+    Int32 cont : Public
+    Int32 band : Public
+    System.ComponentModel.ComponentResourceManager recursos : Public
+    System.Windows.Forms.PictureBox pictureBox30 : Public
+    System.Windows.Forms.PictureBox pictureBox29 : Public
+    System.Windows.Forms.PictureBox pictureBox28 : Public
+    System.Windows.Forms.PictureBox pictureBox27 : Public
+    System.Windows.Forms.PictureBox pictureBox26 : Public
+    System.Windows.Forms.PictureBox pictureBox25 : Public
+    System.Windows.Forms.PictureBox pictureBox24 : Public
+    System.Windows.Forms.PictureBox pictureBox23 : Public
+    System.Windows.Forms.PictureBox pictureBox22 : Public
+    System.Windows.Forms.PictureBox pictureBox21 : Public
+    System.Windows.Forms.PictureBox pictureBox20 : Public
+    System.Windows.Forms.PictureBox pictureBox19 : Public
+    System.Windows.Forms.PictureBox pictureBox18 : Public
+    System.Windows.Forms.PictureBox pictureBox17 : Public
+    System.Windows.Forms.PictureBox pictureBox16 : Public
+    System.Windows.Forms.PictureBox pictureBox15 : Public
+    System.Windows.Forms.PictureBox pictureBox14 : Public
+    System.Windows.Forms.PictureBox pictureBox13 : Public
+    System.Windows.Forms.PictureBox pictureBox12 : Public
+    System.Windows.Forms.PictureBox pictureBox11 : Public
+    System.Windows.Forms.PictureBox pictureBox10 : Public
+    System.Windows.Forms.PictureBox pictureBox9 : Public
+    System.Windows.Forms.PictureBox pictureBox8 : Public
+    System.Windows.Forms.PictureBox pictureBox7 : Public
+    System.Windows.Forms.PictureBox pictureBox6 : Public
+    System.Windows.Forms.PictureBox pictureBox5 : Public
+    System.Windows.Forms.PictureBox pictureBox4 : Public
+    System.Windows.Forms.PictureBox pictureBox3 : Public
+    System.Windows.Forms.PictureBox pictureBox2 : Public
+    System.Windows.Forms.PictureBox pictureBox1 : Public
